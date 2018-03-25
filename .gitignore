@@ -1,1 +1,2 @@
-*.make
+build/CMakeFiles/sc.dir/*.make
+build/Makefile
