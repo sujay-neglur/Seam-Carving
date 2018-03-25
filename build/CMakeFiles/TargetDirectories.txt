@@ -1,0 +1,3 @@
+/home/s/s_neglur/COMP_6651/P1/build/CMakeFiles/rebuild_cache.dir
+/home/s/s_neglur/COMP_6651/P1/build/CMakeFiles/edit_cache.dir
+/home/s/s_neglur/COMP_6651/P1/build/CMakeFiles/sc.dir
